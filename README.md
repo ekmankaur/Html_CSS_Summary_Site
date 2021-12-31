@@ -12,6 +12,7 @@ Single page website created with HTML and CSS to practice basics of HTML and CSS
 https://brave-sinoussi-ba7db3.netlify.app
 
 ## Credits
-Part of 100 days of code - Web Development Bootcamp (Academind by Maximilian Schwarzmüller)
+100 Days of Code - Web Development Bootcamp curriculum (Academind by Maximilian Schwarzmüller)
+Project# 2
 https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/
 
