@@ -5,7 +5,7 @@ HTML & CSS Summary Website - Single Page
 ## Motivation
 Single page website created with HTML and CSS to practice basics of HTML and CSS and deployed with Netlify. 
 
-## Screenshots
+## Screenshot
 ![image](https://user-images.githubusercontent.com/84930346/147839365-8a110d4b-b481-4163-9bd7-3a2c361f3ad6.png)
 
 ## Link
